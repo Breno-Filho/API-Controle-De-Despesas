@@ -1,4 +1,3 @@
-# API-Controle-De-Despesas[README.md](https://github.com/user-attachments/files/28074944/README.md)
 # API de Controle de Despesas
 
 API RESTful para gerenciamento de finanças pessoais, construída com **Laravel 11** e **PHP 8.2+**. Permite registrar receitas e despesas, categorizá-las e gerar resumos financeiros.
